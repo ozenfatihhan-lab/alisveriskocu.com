@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="183.08" height="183.08"><svg id="SvgjsSvg1005" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.08 183.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00d1c1;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        stroke: #00d1c1;
+      }
+
+      .cls-3 {
+        stroke-width: 16px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="91.54" cy="91.54" r="83.54"></circle>
+  <g>
+    <path class="cls-1" d="M91.54,43.8l-29.84,47.74,11.93,17.9,17.9-65.64Z"></path>
+    <path class="cls-1" d="M91.54,139.28l-29.84-47.74,11.93-17.9,17.9,65.64Z"></path>
+  </g>
+  <g>
+    <path class="cls-2" d="M129.25,76.84h38.67v38.57H103.47v-38.57h19.33m0,0l19.33-14.46,19.33,14.46"></path>
+    <circle class="cls-1" cx="121.38" cy="120.97" r="5.37"></circle>
+    <circle class="cls-1" cx="157.11" cy="120.97" r="5.37"></circle>
+    <path class="cls-1" d="M151.98,104.53v-16.82s-25.23,8.41-25.23,8.41l25.23,8.41Z"></path>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
